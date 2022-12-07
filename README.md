@@ -2,6 +2,7 @@
 
 ### Explaining the data:
 There are 2 files: *doc_keywords_topics* and *topics.* 
+
 **doc_keywords_topics** column definitions
 - filename: name of the file from the nltk reuters data
 - tag: train/test tag from the nltk reurers data
